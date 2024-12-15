@@ -1,42 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O que é Computação Quântica e como ela evoluiu até 2024
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A computação quântica é uma área da computação que explora os princípios da mecânica quântica, como superposição, emaranhamento e tunelamento, para realizar cálculos de maneira significativamente mais rápida do que os computadores clássicos em problemas específicos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei as ferramentas ChatGPT e Gamma.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para gerar o conteúdo da apresentação e o Gamma para gerar a apresentação em Slides.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado foi gerada uma apresentação explicando os conceitos da Computação Quântica e sua evoluação até o presente. O Gamma gerou uma apresentação muito bonita e ilustrada, dividindo muito bem os tópicos e gerando imagens que auxiliam na contextualização do assunto. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi ótimo poder apresentar e sobre esas novas ferramentas.
 
 ### Exemplos e Insigths
 
